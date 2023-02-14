@@ -8,6 +8,7 @@ package com.lannstark.lec05
  * - Expresssion : 하나의 값으로 도출되는 문장.
  *
  * 자바에서 if-else의 경우에는 하나의 값이 정해저 있지 않기 때문에 Statement지만,
+ *
  * 코틀린엔서는 if-else를 Expression으로 취급한다.
  *
  * 참고로 자바의 삼항연산자의 경우에는 Expression이다.
